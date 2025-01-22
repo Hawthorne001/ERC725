@@ -35,7 +35,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@openzeppelin/contracts": "^4.9.3",
-    "@openzeppelin/contracts-upgradeable": "^4.9.3",
+    "@openzeppelin/contracts-upgradeable": "^5.2.0",
     "solidity-bytes-utils": "0.8.0"
   },
   "devDependencies": {
